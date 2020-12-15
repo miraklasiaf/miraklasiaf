@@ -108,7 +108,6 @@
         },
         {
           "title": "Auxiliary Verbs",
-          "rootPath": "/beginner/auxiliary-verbs.mdx",
           "open": true,
           "routes": [
             {
@@ -223,7 +222,6 @@
         },
         {
           "title": "Nouns",
-          "rootPath": "/intermediate/nouns",
           "open": true,
           "routes": [
             {
@@ -250,7 +248,6 @@
         },
         {
           "title": "Possessive",
-          "rootPath": "/intermediate/possessive",
           "open": true,
           "routes": [
             {
@@ -265,7 +262,6 @@
         },
         {
           "title": "Quantifiers",
-          "rootPath": "/intermediate/quantifiers",
           "open": true,
           "routes": [
             {
@@ -288,7 +284,6 @@
         },
         {
           "title": "Distributives",
-          "rootPath": "/intermediate/distributives",
           "open": true,
           "routes": [
             {
@@ -303,7 +298,6 @@
         },
         {
           "title": "Verbs Continuous Tense",
-          "rootPath": "/intermediate/verbs-continuous-tense.mdx",
           "open": true,
           "routes": [
             {
@@ -322,7 +316,6 @@
         },
         {
           "title": "Modal Verbs",
-          "rootPath": "/intermediate/modal-verbs",
           "open": true,
           "routes": [
             {
@@ -341,7 +334,6 @@
         },
         {
           "title": "Adjectives",
-          "rootPath": "/intermediate/adjectives",
           "open": true,
           "routes": [
             {
@@ -364,7 +356,6 @@
         },
         {
           "title": "Adverbs",
-          "rootPath": "/intermediate/adverbs",
           "open": true,
           "routes": [
             {
@@ -383,7 +374,6 @@
         },
         {
           "title": "Prepositions",
-          "rootPath": "/intermediate/prepositions",
           "open": true,
           "routes": [
             {
@@ -402,7 +392,6 @@
         },
         {
           "title": "Conjunctions",
-          "rootPath": "/intermediate/conjunctions",
           "open": true,
           "routes": [
             {
@@ -418,6 +407,138 @@
               "path": "/intermediate/conjunctions/compound-conjunctions.mdx"
             }
           ]
+        }
+      ]
+    },
+    {
+      "title": "Advanced Grammar",
+      "heading": true,
+      "routes": [
+        {
+          "title": "Getting Started",
+          "path": "/advanced/getting-started.mdx"
+        },
+        {
+          "title": "Verbs Perfect Tense",
+          "open": true,
+          "routes": [
+            {
+              "title": "Present Perfect and Present Perfect Continuous",
+              "path": "/advanced/verbs-perfect-tense/present-perfect-and-present-perfect-continuous.mdx"
+            },
+            {
+              "title": "Past Perfect and Past Perfect Continuous",
+              "path": "/advanced/verbs-perfect-tense/past-perfect-and-past-perfect-continuous.mdx"
+            },
+            {
+              "title": "Future Perfect and Future Perfect Continuous",
+              "path": "/advanced/verbs-perfect-tense/future-perfect-and-future-perfect-continuous.mdx"
+            }
+          ]
+        },
+        {
+          "title": "Past Participle",
+          "path": "/advanced/past-participle.mdx"
+        },
+        {
+          "title": "Phrasal Verbs",
+          "open": true,
+          "routes": [
+            {
+              "title": "Give up - Turn Out",
+              "path": "/advanced/phrasal-verbs/give-up-turn-out.mdx"
+            },
+            {
+              "title": "Carry On - Put off",
+              "path": "/advanced/phrasal-verbs/carry-on-put-off.mdx"
+            },
+            {
+              "title": "Turn down - Break Up",
+              "path": "/advanced/phrasal-verbs/turn-down-break-up.mdx"
+            }
+          ]
+        },
+        {
+          "title": "Pre-determiners",
+          "open": true,
+          "routes": [
+            {
+              "title": "Such - What - Rather - Quite",
+              "path": "/advanced/pre-determiners/such-what-rather-quite.mdx"
+            }
+          ]
+        },
+        {
+          "title": "Orders of Adverbs",
+          "path": "/advanced/orders-of-adverbs.mdx"
+        },
+        {
+          "title": "Pseudo Conjunctions",
+          "path": "/advanced/pseudo-conjunctions.mdx"
+        },
+        {
+          "title": "Passive vs Active Voice",
+          "path": "/advanced/passive-vs-active-voice.mdx"
+        },
+        {
+          "title": "Conditionals",
+          "open": true,
+          "routes": [
+            {
+              "title": "Conditionals Type 0",
+              "path": "/advanced/conditionals/conditionals-type-0.mdx"
+            },
+            {
+              "title": "Conditionals Type 1",
+              "path": "/advanced/conditionals/conditionals-type-1.mdx"
+            },
+            {
+              "title": "Conditionals Type 2",
+              "path": "/advanced/conditionals/conditionals-type-2.mdx"
+            },
+            {
+              "title": "Conditionals Type 3",
+              "path": "/advanced/conditionals/conditionals-type-3.mdx"
+            },
+            {
+              "title": "Conditionals Mixed Type",
+              "path": "/advanced/conditionals/conditionals-mixed-type.mdx"
+            }
+          ]
+        },
+        {
+          "title": "Clauses",
+          "open": true,
+          "routes": [
+            {
+              "title": "Sentence Clause",
+              "path": "/advanced/clauses/sentence-clause.mdx"
+            },
+            {
+              "title": "Independent Clause",
+              "path": "/advanced/clauses/independent-clause.mdx"
+            },
+            {
+              "title": "Dependent Clause",
+              "path": "/advanced/clauses/dependent-clause.mdx"
+            },
+            {
+              "title": "Noun Clause",
+              "path": "/advanced/clauses/noun-clause.mdx"
+            },
+            {
+              "title": "Adjective Clause",
+              "path": "/advanced/clauses/adjective-clause.mdx"
+            },
+            {
+              "title": "Adverb Clause",
+              "path": "/advanced/clauses/adverb-clause.mdx"
+            }
+          ]
+        },
+        {
+          "title": "Reported Speech",
+          "path": "/advanced/reported-speech.mdx"
         }
       ]
     }
