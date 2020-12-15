@@ -6,220 +6,208 @@
       "routes": [
         {
           "title": "Getting Started",
-          "path": "/beginner/getting-started"
+          "path": "/beginner/getting-started.mdx"
         },
         {
           "title": "Nouns",
-          "rootPath": "/beginner/nouns",
           "open": true,
           "routes": [
             {
               "title": "Common Nouns",
-              "path": "/beginner/nouns/common-nouns"
+              "path": "/beginner/nouns/common-nouns.mdx"
             },
             {
               "title": "Proper Nouns",
-              "path": "/beginner/nouns/proper-nouns"
+              "path": "/beginner/nouns/proper-nouns.mdx"
             }
           ]
         },
         {
           "title": "Pronouns",
-          "rootPath": "/beginner/pronouns",
           "open": true,
           "routes": [
             {
               "title": "Subject Pronouns",
-              "path": "/beginner/pronouns/subject-pronouns"
+              "path": "/beginner/pronouns/subject-pronouns.mdx"
             },
             {
               "title": "Object Pronouns",
-              "path": "/beginner/pronouns/object-pronouns"
+              "path": "/beginner/pronouns/object-pronouns.mdx"
             }
           ]
         },
         {
           "title": "Articles",
-          "rootPath": "/beginner/articles",
           "open": true,
           "routes": [
             {
               "title": "A - An - The",
-              "path": "/beginner/articles/a-an-the"
+              "path": "/beginner/articles/a-an-the.mdx"
             }
           ]
         },
         {
           "title": "Demonstratives",
-          "rootPath": "/beginner/demonstratives",
           "open": true,
           "routes": [
             {
               "title": "This - That - These - Those ",
-              "path": "/beginner/demonstratives/this-that-these-those"
+              "path": "/beginner/demonstratives/this-that-these-those.mdx"
             }
           ]
         },
         {
           "title": "Distributives",
-          "rootPath": "/beginner/distributives",
           "open": true,
           "routes": [
             {
               "title": "All - Half",
-              "path": "/beginner/distributives/all-half"
+              "path": "/beginner/distributives/all-half.mdx"
             },
             {
               "title": "Each - Every",
-              "path": "/beginner/distributives/each-every"
+              "path": "/beginner/distributives/each-every.mdx"
             }
           ]
         },
         {
           "title": "Conjugating Verbs",
-          "rootPath": "/beginner/conjugating-verbs",
           "open": true,
           "routes": [
             {
               "title": "Verb Conjugation",
-              "path": "/beginner/conjugating-verbs/verb-conjugation"
+              "path": "/beginner/conjugating-verbs/verb-conjugation.mdx"
             },
             {
               "title": "Subject-Verb Agreement",
-              "path": "/beginner/conjugating-verbs/subject-verb-agreement"
+              "path": "/beginner/conjugating-verbs/subject-verb-agreement.mdx"
             }
           ]
         },
         {
           "title": "Verbs Simple Tense",
-          "rootPath": "/beginner/verbs-simple-tense",
           "open": true,
           "routes": [
             {
               "title": "Past Simple",
-              "path": "/beginner/verbs-simple-tense/past-simple"
+              "path": "/beginner/verbs-simple-tense/past-simple.mdx"
             },
             {
               "title": "Present Simple",
-              "path": "/beginner/verbs-simple-tense/present-simple"
+              "path": "/beginner/verbs-simple-tense/present-simple.mdx"
             },
             {
               "title": "Future Simple",
-              "path": "/beginner/verbs-simple-tense/future-simple"
+              "path": "/beginner/verbs-simple-tense/future-simple.mdx"
             }
           ]
         },
         {
           "title": "The Gerund",
-          "path": "/beginner/the-gerund"
+          "path": "/beginner/the-gerund.mdx"
         },
         {
           "title": "Auxiliary Verbs",
-          "rootPath": "/beginner/auxiliary-verbs",
+          "rootPath": "/beginner/auxiliary-verbs.mdx",
           "open": true,
           "routes": [
             {
               "title": "To Be",
-              "path": "/beginner/auxiliary-verbs/to-be"
+              "path": "/beginner/auxiliary-verbs/to-be.mdx"
             },
             {
               "title": "To Do and To Have",
-              "path": "/beginner/auxiliary-verbs/to-do-and-to-have"
+              "path": "/beginner/auxiliary-verbs/to-do-and-to-have.mdx"
             }
           ]
         },
         {
           "title": "Modal Verbs",
-          "rootPath": "/beginner/modal-verbs",
           "open": true,
           "routes": [
             {
               "title": "Can - Could",
-              "path": "/beginner/modal-verbs/can-could"
+              "path": "/beginner/modal-verbs/can-could.mdx"
             }
           ]
         },
         {
           "title": "Adjectives and Adverbs Intro",
-          "path": "/beginner/adjectives-and-adverbs-introduction"
+          "path": "/beginner/adjectives-and-adverbs-introduction.mdx"
         },
         {
           "title": "Adjectives",
-          "rootPath": "/beginner/adjectives",
           "open": true,
           "routes": [
             {
               "title": "Descriptive Adjectives",
-              "path": "/beginner/adjectives/descriptive-adjectives"
+              "path": "/beginner/adjectives/descriptive-adjectives.mdx"
             },
             {
               "title": "Proper Adjectives",
-              "path": "/beginner/adjectives/proper-adjectives"
+              "path": "/beginner/adjectives/proper-adjectives.mdx"
             },
             {
               "title": "Possessive Adjectives",
-              "path": "/beginner/adjectives/possesive-adjectives"
+              "path": "/beginner/adjectives/possesive-adjectives.mdx"
             }
           ]
         },
         {
           "title": "Adverbs",
-          "rootPath": "/beginner/adverbs",
           "open": true,
           "routes": [
             {
               "title": "How to Form Adverbs",
-              "path": "/beginner/adverbs/how-to-form-adverbs"
+              "path": "/beginner/adverbs/how-to-form-adverbs.mdx"
             },
             {
               "title": "Adverbs of Manner",
-              "path": "/beginner/adverbs/adverbs-of-manner"
+              "path": "/beginner/adverbs/adverbs-of-manner.mdx"
             },
             {
               "title": "Adverbs of Place",
-              "path": "/beginner/adverbs/adverbs-of-place"
+              "path": "/beginner/adverbs/adverbs-of-place.mdx"
             },
             {
               "title": "Adverbs of Time",
-              "path": "/beginner/adverbs/adverbs-of-time"
+              "path": "/beginner/adverbs/adverbs-of-time.mdx"
             }
           ]
         },
         {
           "title": "Prepositions",
-          "rootPath": "/beginner/prepositions",
           "open": true,
           "routes": [
             {
               "title": "Introduction",
-              "path": "/beginner/prepositions/introduction"
+              "path": "/beginner/prepositions/introduction.mdx"
             },
             {
               "title": "Prepositions of Place",
-              "path": "/beginner/prepositions/prepositions-of-place"
+              "path": "/beginner/prepositions/prepositions-of-place.mdx"
             },
             {
               "title": "Prepositions of Time",
-              "path": "/beginner/prepositions/prepositions-of-time"
+              "path": "/beginner/prepositions/prepositions-of-time.mdx"
             },
             {
               "title": "Prepositions of Direction",
-              "path": "/beginner/prepositions/prepositions-of-direction"
+              "path": "/beginner/prepositions/prepositions-of-direction.mdx"
             }
           ]
         },
         {
           "title": "Conjunctions",
-          "rootPath": "/beginner/conjunctions",
           "open": true,
           "routes": [
             {
               "title": "Introduction",
-              "path": "/beginner/conjunctions/introduction"
+              "path": "/beginner/conjunctions/introduction.mdx"
             },
             {
               "title": "Coordinating Conjunctions",
-              "path": "/beginner/conjunctions/coordinating-conjunctions"
+              "path": "/beginner/conjunctions/coordinating-conjunctions.mdx"
             }
           ]
         }
