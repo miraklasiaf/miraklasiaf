@@ -1,0 +1,212 @@
+{
+  "routes": [
+    {
+      "title": "Intermediate Grammar",
+      "heading": true,
+      "routes": [
+        {
+          "title": "Getting Started",
+          "path": "/intermediate/getting-started.mdx"
+        },
+        {
+          "title": "Nouns",
+          "rootPath": "/intermediate/nouns",
+          "open": true,
+          "routes": [
+            {
+              "title": "Material and Compound Nouns",
+              "path": "/intermediate/nouns/material-and-compound-nouns.mdx"
+            },
+            {
+              "title": "Countable vs Uncountable Nouns",
+              "path": "/intermediate/nouns/countable-vs-uncountable-nouns.mdx"
+            },
+            {
+              "title": "Collective Nouns",
+              "path": "/intermediate/nouns/collective-nouns.mdx"
+            },
+            {
+              "title": "Concrete Nouns",
+              "path": "/intermediate/nouns/concrete-nouns.mdx"
+            },
+            {
+              "title": "Abstract Nouns",
+              "path": "/intermediate/nouns/abstract-nouns.mdx"
+            }
+          ]
+        },
+        {
+          "title": "Possessive",
+          "rootPath": "/intermediate/possessive",
+          "open": true,
+          "routes": [
+            {
+              "title": "Possessive Nouns",
+              "path": "/intermediate/possessive/possessive-nouns.mdx"
+            },
+            {
+              "title": "Possessive Pronouns",
+              "path": "/intermediate/possessive/possessive-pronouns.mdx"
+            }
+          ]
+        },
+        {
+          "title": "Quantifiers",
+          "rootPath": "/intermediate/quantifiers",
+          "open": true,
+          "routes": [
+            {
+              "title": "A few - A little",
+              "path": "/intermediate/quantifiers/a-few-a-little.mdx"
+            },
+            {
+              "title": "Much - Many",
+              "path": "/intermediate/quantifiers/much-many.mdx"
+            },
+            {
+              "title": "A lot - Most",
+              "path": "/intermediate/quantifiers/a-lot-most.mdx"
+            },
+            {
+              "title": "Some - Any - Enough",
+              "path": "/intermediate/quantifiers/some-any-enough.mdx"
+            }
+          ]
+        },
+        {
+          "title": "Distributives",
+          "rootPath": "/intermediate/distributives",
+          "open": true,
+          "routes": [
+            {
+              "title": "Both - Either - Neither",
+              "path": "/intermediate/distributives/both-either-neither.mdx"
+            }
+          ]
+        },
+        {
+          "title": "Present Participle",
+          "path": "/intermediate/present-participle.mdx"
+        },
+        {
+          "title": "Verbs Continuous Tense",
+          "rootPath": "/intermediate/verbs-continuous-tense.mdx",
+          "open": true,
+          "routes": [
+            {
+              "title": "Past Continuous",
+              "path": "/intermediate/verbs-continuous-tense/past-continuous.mdx"
+            },
+            {
+              "title": "Present Continuous",
+              "path": "/intermediate/verbs-continuous-tense/present-continuous.mdx"
+            },
+            {
+              "title": "Future Continuous",
+              "path": "/intermediate/verbs-continuous-tense/future-continuous.mdx"
+            }
+          ]
+        },
+        {
+          "title": "Modal Verbs",
+          "rootPath": "/intermediate/modal-verbs",
+          "open": true,
+          "routes": [
+            {
+              "title": "Must - May - Might",
+              "path": "/intermediate/modal-verbs/must-may-might.mdx"
+            },
+            {
+              "title": "Shall - Should",
+              "path": "/intermediate/modal-verbs/shall-should.mdx"
+            },
+            {
+              "title": "Will - Would",
+              "path": "/intermediate/modal-verbs/will-would.mdx"
+            }
+          ]
+        },
+        {
+          "title": "Adjectives",
+          "rootPath": "/intermediate/adjectives",
+          "open": true,
+          "routes": [
+            {
+              "title": "Limiting Adjectives",
+              "path": "/intermediate/adjectives/limiting-adjectives.mdx"
+            },
+            {
+              "title": "Pronominal Adjectives",
+              "path": "/intermediate/adjectives/pronominal-adjectives.mdx"
+            },
+            {
+              "title": "Comparative Adjectives",
+              "path": "/intermediate/adjectives/comparative-adjectives.mdx"
+            },
+            {
+              "title": "Superlative Adjectives",
+              "path": "/intermediate/adjectives/superlative-adjectives.mdx"
+            }
+          ]
+        },
+        {
+          "title": "Adverbs",
+          "rootPath": "/intermediate/adverbs",
+          "open": true,
+          "routes": [
+            {
+              "title": "Adverbs of Frequency",
+              "path": "/intermediate/adverbs/adverbs-of-frequency.mdx"
+            },
+            {
+              "title": "Adverbs of Degree",
+              "path": "/intermediate/adverbs/adverbs-of-degree.mdx"
+            },
+            {
+              "title": "Comparative/Superlative Adverbs",
+              "path": "/intermediate/adverbs/comparative-superlative-adverbs.mdx"
+            }
+          ]
+        },
+        {
+          "title": "Prepositions",
+          "rootPath": "/intermediate/prepositions",
+          "open": true,
+          "routes": [
+            {
+              "title": "Prepositions of Manner",
+              "path": "/intermediate/prepositions/prepositions-of-manner.mdx"
+            },
+            {
+              "title": "Prepositions of Cause, Purpose, and Reason",
+              "path": "/intermediate/prepositions/prepositions-of-cause-purpose-and-reason.mdx"
+            },
+            {
+              "title": "Prepositional Phrases",
+              "path": "/intermediate/prepositions/prepositional-phrases.mdx"
+            }
+          ]
+        },
+        {
+          "title": "Conjunctions",
+          "rootPath": "/intermediate/conjunctions",
+          "open": true,
+          "routes": [
+            {
+              "title": "Subordinate Conjunctions",
+              "path": "/intermediate/conjunctions/subordinate-conjunctions.mdx"
+            },
+            {
+              "title": "Correlative Conjunctions",
+              "path": "/intermediate/conjunctions/correlative-conjunctions.mdx"
+            },
+            {
+              "title": "Compound Conjunctions",
+              "path": "/intermediate/conjunctions/compound-conjunctions.mdx"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
