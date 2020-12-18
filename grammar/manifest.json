@@ -6,7 +6,7 @@
       "routes": [
         {
           "title": "Getting Started",
-          "path": "/beginner/getting-started.mdx"
+          "path": "/grammar/beginner/getting-started"
         },
         {
           "title": "Nouns",
@@ -14,11 +14,11 @@
           "routes": [
             {
               "title": "Common Nouns",
-              "path": "/beginner/nouns/common-nouns.mdx"
+              "path": "/grammar/beginner/nouns/common-nouns"
             },
             {
               "title": "Proper Nouns",
-              "path": "/beginner/nouns/proper-nouns.mdx"
+              "path": "/grammar/beginner/nouns/proper-nouns"
             }
           ]
         },
@@ -28,11 +28,11 @@
           "routes": [
             {
               "title": "Subject Pronouns",
-              "path": "/beginner/pronouns/subject-pronouns.mdx"
+              "path": "/grammar/beginner/pronouns/subject-pronouns"
             },
             {
               "title": "Object Pronouns",
-              "path": "/beginner/pronouns/object-pronouns.mdx"
+              "path": "/grammar/beginner/pronouns/object-pronouns"
             }
           ]
         },
@@ -42,7 +42,7 @@
           "routes": [
             {
               "title": "A - An - The",
-              "path": "/beginner/articles/a-an-the.mdx"
+              "path": "/grammar/beginner/articles/a-an-the"
             }
           ]
         },
@@ -52,7 +52,7 @@
           "routes": [
             {
               "title": "This - That - These - Those ",
-              "path": "/beginner/demonstratives/this-that-these-those.mdx"
+              "path": "/grammar/beginner/demonstratives/this-that-these-those"
             }
           ]
         },
@@ -62,11 +62,11 @@
           "routes": [
             {
               "title": "All - Half",
-              "path": "/beginner/distributives/all-half.mdx"
+              "path": "/grammar/beginner/distributives/all-half"
             },
             {
               "title": "Each - Every",
-              "path": "/beginner/distributives/each-every.mdx"
+              "path": "/grammar/beginner/distributives/each-every"
             }
           ]
         },
@@ -76,11 +76,11 @@
           "routes": [
             {
               "title": "Verb Conjugation",
-              "path": "/beginner/conjugating-verbs/verb-conjugation.mdx"
+              "path": "/grammar/beginner/conjugating-verbs/verb-conjugation"
             },
             {
               "title": "Subject-Verb Agreement",
-              "path": "/beginner/conjugating-verbs/subject-verb-agreement.mdx"
+              "path": "/grammar/beginner/conjugating-verbs/subject-verb-agreement"
             }
           ]
         },
@@ -90,21 +90,21 @@
           "routes": [
             {
               "title": "Past Simple",
-              "path": "/beginner/verbs-simple-tense/past-simple.mdx"
+              "path": "/grammar/beginner/verbs-simple-tense/past-simple"
             },
             {
               "title": "Present Simple",
-              "path": "/beginner/verbs-simple-tense/present-simple.mdx"
+              "path": "/grammar/beginner/verbs-simple-tense/present-simple"
             },
             {
               "title": "Future Simple",
-              "path": "/beginner/verbs-simple-tense/future-simple.mdx"
+              "path": "/grammar/beginner/verbs-simple-tense/future-simple"
             }
           ]
         },
         {
           "title": "The Gerund",
-          "path": "/beginner/the-gerund.mdx"
+          "path": "/grammar/beginner/the-gerund"
         },
         {
           "title": "Auxiliary Verbs",
@@ -112,11 +112,11 @@
           "routes": [
             {
               "title": "To Be",
-              "path": "/beginner/auxiliary-verbs/to-be.mdx"
+              "path": "/grammar/beginner/auxiliary-verbs/to-be"
             },
             {
               "title": "To Do and To Have",
-              "path": "/beginner/auxiliary-verbs/to-do-and-to-have.mdx"
+              "path": "/grammar/beginner/auxiliary-verbs/to-do-and-to-have"
             }
           ]
         },
@@ -126,13 +126,13 @@
           "routes": [
             {
               "title": "Can - Could",
-              "path": "/beginner/modal-verbs/can-could.mdx"
+              "path": "/grammar/beginner/modal-verbs/can-could"
             }
           ]
         },
         {
           "title": "Adjectives and Adverbs Intro",
-          "path": "/beginner/adjectives-and-adverbs-introduction.mdx"
+          "path": "/grammar/beginner/adjectives-and-adverbs-introduction"
         },
         {
           "title": "Adjectives",
@@ -140,15 +140,15 @@
           "routes": [
             {
               "title": "Descriptive Adjectives",
-              "path": "/beginner/adjectives/descriptive-adjectives.mdx"
+              "path": "/grammar/beginner/adjectives/descriptive-adjectives"
             },
             {
               "title": "Proper Adjectives",
-              "path": "/beginner/adjectives/proper-adjectives.mdx"
+              "path": "/grammar/beginner/adjectives/proper-adjectives"
             },
             {
               "title": "Possessive Adjectives",
-              "path": "/beginner/adjectives/possesive-adjectives.mdx"
+              "path": "/grammar/beginner/adjectives/possesive-adjectives"
             }
           ]
         },
@@ -158,19 +158,19 @@
           "routes": [
             {
               "title": "How to Form Adverbs",
-              "path": "/beginner/adverbs/how-to-form-adverbs.mdx"
+              "path": "/grammar/beginner/adverbs/how-to-form-adverbs"
             },
             {
               "title": "Adverbs of Manner",
-              "path": "/beginner/adverbs/adverbs-of-manner.mdx"
+              "path": "/grammar/beginner/adverbs/adverbs-of-manner"
             },
             {
               "title": "Adverbs of Place",
-              "path": "/beginner/adverbs/adverbs-of-place.mdx"
+              "path": "/grammar/beginner/adverbs/adverbs-of-place"
             },
             {
               "title": "Adverbs of Time",
-              "path": "/beginner/adverbs/adverbs-of-time.mdx"
+              "path": "/grammar/beginner/adverbs/adverbs-of-time"
             }
           ]
         },
@@ -180,19 +180,19 @@
           "routes": [
             {
               "title": "Introduction",
-              "path": "/beginner/prepositions/introduction.mdx"
+              "path": "/grammar/beginner/prepositions/introduction"
             },
             {
               "title": "Prepositions of Place",
-              "path": "/beginner/prepositions/prepositions-of-place.mdx"
+              "path": "/grammar/beginner/prepositions/prepositions-of-place"
             },
             {
               "title": "Prepositions of Time",
-              "path": "/beginner/prepositions/prepositions-of-time.mdx"
+              "path": "/grammar/beginner/prepositions/prepositions-of-time"
             },
             {
               "title": "Prepositions of Direction",
-              "path": "/beginner/prepositions/prepositions-of-direction.mdx"
+              "path": "/grammar/beginner/prepositions/prepositions-of-direction"
             }
           ]
         },
@@ -202,11 +202,11 @@
           "routes": [
             {
               "title": "Introduction",
-              "path": "/beginner/conjunctions/introduction.mdx"
+              "path": "/grammar/beginner/conjunctions/introduction"
             },
             {
               "title": "Coordinating Conjunctions",
-              "path": "/beginner/conjunctions/coordinating-conjunctions.mdx"
+              "path": "/grammar/beginner/conjunctions/coordinating-conjunctions"
             }
           ]
         }
@@ -218,7 +218,7 @@
       "routes": [
         {
           "title": "Getting Started",
-          "path": "/intermediate/getting-started.mdx"
+          "path": "/grammar/intermediate/getting-started"
         },
         {
           "title": "Nouns",
@@ -226,23 +226,23 @@
           "routes": [
             {
               "title": "Material and Compound Nouns",
-              "path": "/intermediate/nouns/material-and-compound-nouns.mdx"
+              "path": "/grammar/intermediate/nouns/material-and-compound-nouns"
             },
             {
               "title": "Countable vs Uncountable Nouns",
-              "path": "/intermediate/nouns/countable-vs-uncountable-nouns.mdx"
+              "path": "/grammar/intermediate/nouns/countable-vs-uncountable-nouns"
             },
             {
               "title": "Collective Nouns",
-              "path": "/intermediate/nouns/collective-nouns.mdx"
+              "path": "/grammar/intermediate/nouns/collective-nouns"
             },
             {
               "title": "Concrete Nouns",
-              "path": "/intermediate/nouns/concrete-nouns.mdx"
+              "path": "/grammar/intermediate/nouns/concrete-nouns"
             },
             {
               "title": "Abstract Nouns",
-              "path": "/intermediate/nouns/abstract-nouns.mdx"
+              "path": "/grammar/intermediate/nouns/abstract-nouns"
             }
           ]
         },
@@ -252,11 +252,11 @@
           "routes": [
             {
               "title": "Possessive Nouns",
-              "path": "/intermediate/possessive/possessive-nouns.mdx"
+              "path": "/grammar/intermediate/possessive/possessive-nouns"
             },
             {
               "title": "Possessive Pronouns",
-              "path": "/intermediate/possessive/possessive-pronouns.mdx"
+              "path": "/grammar/intermediate/possessive/possessive-pronouns"
             }
           ]
         },
@@ -266,19 +266,19 @@
           "routes": [
             {
               "title": "A few - A little",
-              "path": "/intermediate/quantifiers/a-few-a-little.mdx"
+              "path": "/grammar/intermediate/quantifiers/a-few-a-little"
             },
             {
               "title": "Much - Many",
-              "path": "/intermediate/quantifiers/much-many.mdx"
+              "path": "/grammar/intermediate/quantifiers/much-many"
             },
             {
               "title": "A lot - Most",
-              "path": "/intermediate/quantifiers/a-lot-most.mdx"
+              "path": "/grammar/intermediate/quantifiers/a-lot-most"
             },
             {
               "title": "Some - Any - Enough",
-              "path": "/intermediate/quantifiers/some-any-enough.mdx"
+              "path": "/grammar/intermediate/quantifiers/some-any-enough"
             }
           ]
         },
@@ -288,13 +288,13 @@
           "routes": [
             {
               "title": "Both - Either - Neither",
-              "path": "/intermediate/distributives/both-either-neither.mdx"
+              "path": "/grammar/intermediate/distributives/both-either-neither"
             }
           ]
         },
         {
           "title": "Present Participle",
-          "path": "/intermediate/present-participle.mdx"
+          "path": "/grammar/intermediate/present-participle"
         },
         {
           "title": "Verbs Continuous Tense",
@@ -302,15 +302,15 @@
           "routes": [
             {
               "title": "Past Continuous",
-              "path": "/intermediate/verbs-continuous-tense/past-continuous.mdx"
+              "path": "/grammar/intermediate/verbs-continuous-tense/past-continuous"
             },
             {
               "title": "Present Continuous",
-              "path": "/intermediate/verbs-continuous-tense/present-continuous.mdx"
+              "path": "/grammar/intermediate/verbs-continuous-tense/present-continuous"
             },
             {
               "title": "Future Continuous",
-              "path": "/intermediate/verbs-continuous-tense/future-continuous.mdx"
+              "path": "/grammar/intermediate/verbs-continuous-tense/future-continuous"
             }
           ]
         },
@@ -320,15 +320,15 @@
           "routes": [
             {
               "title": "Must - May - Might",
-              "path": "/intermediate/modal-verbs/must-may-might.mdx"
+              "path": "/grammar/intermediate/modal-verbs/must-may-might"
             },
             {
               "title": "Shall - Should",
-              "path": "/intermediate/modal-verbs/shall-should.mdx"
+              "path": "/grammar/intermediate/modal-verbs/shall-should"
             },
             {
               "title": "Will - Would",
-              "path": "/intermediate/modal-verbs/will-would.mdx"
+              "path": "/grammar/intermediate/modal-verbs/will-would"
             }
           ]
         },
@@ -338,19 +338,19 @@
           "routes": [
             {
               "title": "Limiting Adjectives",
-              "path": "/intermediate/adjectives/limiting-adjectives.mdx"
+              "path": "/grammar/intermediate/adjectives/limiting-adjectives"
             },
             {
               "title": "Pronominal Adjectives",
-              "path": "/intermediate/adjectives/pronominal-adjectives.mdx"
+              "path": "/grammar/intermediate/adjectives/pronominal-adjectives"
             },
             {
               "title": "Comparative Adjectives",
-              "path": "/intermediate/adjectives/comparative-adjectives.mdx"
+              "path": "/grammar/intermediate/adjectives/comparative-adjectives"
             },
             {
               "title": "Superlative Adjectives",
-              "path": "/intermediate/adjectives/superlative-adjectives.mdx"
+              "path": "/grammar/intermediate/adjectives/superlative-adjectives"
             }
           ]
         },
@@ -360,15 +360,15 @@
           "routes": [
             {
               "title": "Adverbs of Frequency",
-              "path": "/intermediate/adverbs/adverbs-of-frequency.mdx"
+              "path": "/grammar/intermediate/adverbs/adverbs-of-frequency"
             },
             {
               "title": "Adverbs of Degree",
-              "path": "/intermediate/adverbs/adverbs-of-degree.mdx"
+              "path": "/grammar/intermediate/adverbs/adverbs-of-degree"
             },
             {
               "title": "Comparative/Superlative Adverbs",
-              "path": "/intermediate/adverbs/comparative-superlative-adverbs.mdx"
+              "path": "/grammar/intermediate/adverbs/comparative-superlative-adverbs"
             }
           ]
         },
@@ -378,15 +378,15 @@
           "routes": [
             {
               "title": "Prepositions of Manner",
-              "path": "/intermediate/prepositions/prepositions-of-manner.mdx"
+              "path": "/grammar/intermediate/prepositions/prepositions-of-manner"
             },
             {
               "title": "Prepositions of Cause, Purpose, and Reason",
-              "path": "/intermediate/prepositions/prepositions-of-cause-purpose-and-reason.mdx"
+              "path": "/grammar/intermediate/prepositions/prepositions-of-cause-purpose-and-reason"
             },
             {
               "title": "Prepositional Phrases",
-              "path": "/intermediate/prepositions/prepositional-phrases.mdx"
+              "path": "/grammar/intermediate/prepositions/prepositional-phrases"
             }
           ]
         },
@@ -396,15 +396,15 @@
           "routes": [
             {
               "title": "Subordinate Conjunctions",
-              "path": "/intermediate/conjunctions/subordinate-conjunctions.mdx"
+              "path": "/grammar/intermediate/conjunctions/subordinate-conjunctions"
             },
             {
               "title": "Correlative Conjunctions",
-              "path": "/intermediate/conjunctions/correlative-conjunctions.mdx"
+              "path": "/grammar/intermediate/conjunctions/correlative-conjunctions"
             },
             {
               "title": "Compound Conjunctions",
-              "path": "/intermediate/conjunctions/compound-conjunctions.mdx"
+              "path": "/grammar/intermediate/conjunctions/compound-conjunctions"
             }
           ]
         }
@@ -416,7 +416,7 @@
       "routes": [
         {
           "title": "Getting Started",
-          "path": "/advanced/getting-started.mdx"
+          "path": "/grammar/advanced/getting-started"
         },
         {
           "title": "Verbs Perfect Tense",
@@ -424,21 +424,21 @@
           "routes": [
             {
               "title": "Present Perfect and Present Perfect Continuous",
-              "path": "/advanced/verbs-perfect-tense/present-perfect-and-present-perfect-continuous.mdx"
+              "path": "/grammar/advanced/verbs-perfect-tense/present-perfect-and-present-perfect-continuous"
             },
             {
               "title": "Past Perfect and Past Perfect Continuous",
-              "path": "/advanced/verbs-perfect-tense/past-perfect-and-past-perfect-continuous.mdx"
+              "path": "/grammar/advanced/verbs-perfect-tense/past-perfect-and-past-perfect-continuous"
             },
             {
               "title": "Future Perfect and Future Perfect Continuous",
-              "path": "/advanced/verbs-perfect-tense/future-perfect-and-future-perfect-continuous.mdx"
+              "path": "/grammar/advanced/verbs-perfect-tense/future-perfect-and-future-perfect-continuous"
             }
           ]
         },
         {
           "title": "Past Participle",
-          "path": "/advanced/past-participle.mdx"
+          "path": "/grammar/advanced/past-participle"
         },
         {
           "title": "Phrasal Verbs",
@@ -446,15 +446,15 @@
           "routes": [
             {
               "title": "Give up - Turn Out",
-              "path": "/advanced/phrasal-verbs/give-up-turn-out.mdx"
+              "path": "/grammar/advanced/phrasal-verbs/give-up-turn-out"
             },
             {
               "title": "Carry On - Put off",
-              "path": "/advanced/phrasal-verbs/carry-on-put-off.mdx"
+              "path": "/grammar/advanced/phrasal-verbs/carry-on-put-off"
             },
             {
               "title": "Turn down - Break Up",
-              "path": "/advanced/phrasal-verbs/turn-down-break-up.mdx"
+              "path": "/grammar/advanced/phrasal-verbs/turn-down-break-up"
             }
           ]
         },
@@ -464,21 +464,21 @@
           "routes": [
             {
               "title": "Such - What - Rather - Quite",
-              "path": "/advanced/pre-determiners/such-what-rather-quite.mdx"
+              "path": "/grammar/advanced/pre-determiners/such-what-rather-quite"
             }
           ]
         },
         {
           "title": "Orders of Adverbs",
-          "path": "/advanced/orders-of-adverbs.mdx"
+          "path": "/grammar/advanced/orders-of-adverbs"
         },
         {
           "title": "Pseudo Conjunctions",
-          "path": "/advanced/pseudo-conjunctions.mdx"
+          "path": "/grammar/advanced/pseudo-conjunctions"
         },
         {
           "title": "Passive vs Active Voice",
-          "path": "/advanced/passive-vs-active-voice.mdx"
+          "path": "/grammar/advanced/passive-vs-active-voice"
         },
         {
           "title": "Conditionals",
@@ -486,23 +486,23 @@
           "routes": [
             {
               "title": "Conditionals Type 0",
-              "path": "/advanced/conditionals/conditionals-type-0.mdx"
+              "path": "/grammar/advanced/conditionals/conditionals-type-0"
             },
             {
               "title": "Conditionals Type 1",
-              "path": "/advanced/conditionals/conditionals-type-1.mdx"
+              "path": "/grammar/advanced/conditionals/conditionals-type-1"
             },
             {
               "title": "Conditionals Type 2",
-              "path": "/advanced/conditionals/conditionals-type-2.mdx"
+              "path": "/grammar/advanced/conditionals/conditionals-type-2"
             },
             {
               "title": "Conditionals Type 3",
-              "path": "/advanced/conditionals/conditionals-type-3.mdx"
+              "path": "/grammar/advanced/conditionals/conditionals-type-3"
             },
             {
               "title": "Conditionals Mixed Type",
-              "path": "/advanced/conditionals/conditionals-mixed-type.mdx"
+              "path": "/grammar/advanced/conditionals/conditionals-mixed-type"
             }
           ]
         },
@@ -512,33 +512,33 @@
           "routes": [
             {
               "title": "Sentence Clause",
-              "path": "/advanced/clauses/sentence-clause.mdx"
+              "path": "/grammar/advanced/clauses/sentence-clause"
             },
             {
               "title": "Independent Clause",
-              "path": "/advanced/clauses/independent-clause.mdx"
+              "path": "/grammar/advanced/clauses/independent-clause"
             },
             {
               "title": "Dependent Clause",
-              "path": "/advanced/clauses/dependent-clause.mdx"
+              "path": "/grammar/advanced/clauses/dependent-clause"
             },
             {
               "title": "Noun Clause",
-              "path": "/advanced/clauses/noun-clause.mdx"
+              "path": "/grammar/advanced/clauses/noun-clause"
             },
             {
               "title": "Adjective Clause",
-              "path": "/advanced/clauses/adjective-clause.mdx"
+              "path": "/grammar/advanced/clauses/adjective-clause"
             },
             {
               "title": "Adverb Clause",
-              "path": "/advanced/clauses/adverb-clause.mdx"
+              "path": "/grammar/advanced/clauses/adverb-clause"
             }
           ]
         },
         {
           "title": "Reported Speech",
-          "path": "/advanced/reported-speech.mdx"
+          "path": "/grammar/advanced/reported-speech"
         }
       ]
     }
